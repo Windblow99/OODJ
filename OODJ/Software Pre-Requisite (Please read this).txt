@@ -1,0 +1,20 @@
+Steps to resolve missing JAR file (LGoodDatePicker)
+
+
+1. When launching the software for the first time, NetBeans IDE will prompt you with an error that there is a missing element.
+
+
+
+2. Click “Resolve” on the top right of the error dialog.
+
+
+
+3. You will be prompted to select the JAR file. It will be located under the folder “Consultation”. The JAR file name is “LGoodDatePicker”.
+
+
+
+4. After selecting the correct file name, NetBeans IDE will state that the problem has been resolved.
+
+
+
+5. Close the pop up dialog.
